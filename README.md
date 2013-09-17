@@ -1,4 +1,4 @@
-# Sails Example Using app.js and sails.io 
+# Creating global helper functions in sails.
 This is part of a series of answers to common sails questions. 
 
 Here’s the question: Hi I want to ask, if you could tell me where to put my helper functions, that I want to use in different Controllers. Should I create a custom config file for this purpose?
