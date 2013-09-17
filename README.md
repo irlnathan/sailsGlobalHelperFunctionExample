@@ -1,0 +1,2 @@
+# globalHelperFunctions
+### a Sails application
